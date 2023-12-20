@@ -21,13 +21,13 @@ const SideMenu = () => {
       }}
       style={{ height: '100vh' }}
     >
-      <Title
+      {/* <Title
         level={3}
         className="logo"
         style={{ color: '#fff', textAlign: 'center' }}
       >
-        BookMyDoc
-      </Title>
+       
+      </Title> */}
       <Menu theme="dark" mode="inline" defaultSelectedKeys={['Doctors']}>
         {routes.map((route, index) => {
           return (

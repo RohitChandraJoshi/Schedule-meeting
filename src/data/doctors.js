@@ -1,9 +1,6 @@
-const doctors = [
-  { id: '1', firstName: 'Christy', lastName: 'Schumm' },
-  { id: '2', firstName: 'Natalia', lastName: 'Stanton Jr.' },
-  { id: '3', firstName: 'Nola', lastName: 'Murazik V' },
-  { id: '4', firstName: 'Elyssa', lastName: `O'Kon` },
-  { id: '5', firstName: 'Dr. Geovany', lastName: `Keebler` },
+const guides = [
+  { id: '1', firstName: 'Dr Vishal ', lastName: 'Jain - Associate Professor (Guide)',email:"2020532155.sumeet@ug.sharda.ac.in" },
+  { id: '2', firstName: 'Akanksha ', lastName: 'Sanglo - Assistant Professor (Co-Guide)', email:"dhimansumeet1810@gmail.com"}
 ]
 
-export default doctors
+export default guides;

@@ -25,7 +25,7 @@ function App() {
             <Title
               style={{ color: '#fff', textAlign: 'center', margin: '5px' }}
             >
-              Welcome John Doe
+              Welcome Student
             </Title>
           </Header>
           <Content>
@@ -43,7 +43,7 @@ function App() {
             </Switch>
           </Content>
           <Footer style={{ textAlign: 'center' }}>
-            ©2021 Created by Kelvin Sudani
+            ©2023 Created by Arogya Squad
           </Footer>
         </Layout>
       </Layout>

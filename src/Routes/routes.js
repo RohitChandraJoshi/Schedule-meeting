@@ -1,11 +1,11 @@
 import { CalendarOutlined, UserOutlined } from '@ant-design/icons'
 
 import { Calender } from '../features/calender/Calender'
-import Doctors from '../features/doctors/Doctors'
+import Doctors from '../features/doctors/Guides'
 import MyAppointments from '../features/myAppointments/MyAppointments'
 const routes = [
   {
-    title: 'Doctors',
+    title: 'Guides',
     icon: UserOutlined,
     path: '/',
     component: Doctors,
